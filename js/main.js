@@ -1,8 +1,8 @@
 console.log("main.js loaded!");
 
 myProfile = {
-    username: "m1wu",
-    biography: "Just some display text for the time being.",
+    username: "Man-Fai",
+    biography: "A student for software engineer.",
     skills: ["Javascript", "HTML/CSS", "Bootstrap"]  
 };
 
